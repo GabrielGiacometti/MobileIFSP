@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileIFSP</string>
+    <string name="nome">IMC CALCULADORA</string>
+    <string name="btn_enviar">enviar</string>
+    <string name="message">Seja bem vindo(a), </string>
+</resources>
